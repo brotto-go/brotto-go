@@ -13,7 +13,7 @@ Lists, items, subsections, tables, TeX
    
 <p style="color:blue">Centered colored text.</p>
 
-<font color="red"></font>
+<font color="red">color</font>
 
 <center>centered</center>
    
