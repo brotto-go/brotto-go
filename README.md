@@ -5,11 +5,13 @@ Read me.
 
 ### **Introduction**
 
-Lists, items, subsections, tables.
+Lists, items, subsections, tables, TeX
 
 * Item ***1***
 * **Item** 2
-   * *Item* 2.1 
+   * *Item* 2.1
+   
+<p style="text-align:center; color=blue">Centered colored text.</p>
    
 ### Subsection
    
