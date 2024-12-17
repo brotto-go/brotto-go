@@ -35,16 +35,16 @@ $\text{\LaTeX}$
 
 $\symit{\left.\left.\sum\right(a_i\right)_i^n}$
 
-> Oh! Apparently .md does suport some form of LaTeX equations,
+> Oh! Apparently `.md` does suport some form of LaTeX equations,
 
-### `R`
+### R
 
 The **R**, language.
 
 ```
-\```{r}
+```{r}
    cat(1)
-\```
+```
 ```
 
 > Probably not working
