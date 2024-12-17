@@ -11,7 +11,7 @@ Lists, items, subsections, tables, TeX
 * **Item** 2
    * *Item* 2.1
    
-<p style="text-align:center; color=blue">Centered colored text.</p>
+<p style="text-align:center">Centered colored text.</p>
    
 ### Subsection
    
