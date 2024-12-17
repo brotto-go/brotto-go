@@ -13,7 +13,7 @@ Lists, items, subsections, tables, TeX
 
 `#RRGGBB blue`
 
-`#ffffff`
+`#FFFFFF`
    
 ### Subsection
    
