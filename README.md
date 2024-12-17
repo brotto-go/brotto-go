@@ -52,6 +52,9 @@ The **R**, language.
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
+### Had previous experience with:
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,latex,git&perline=8)](https://skillicons.dev)
+
 ### *Conclusion*
 
 `.md` is great.
