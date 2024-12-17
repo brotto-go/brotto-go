@@ -27,7 +27,7 @@ Paragraph, some chunk of text, with some elements being *italic*, **bold**, ***i
 
 $f(x)=x^2$
 
-$\left.\left.\sum\right(a_i\right)_i^n$
+$\symiit{\left.\left.\sum\right(a_i\right)_i^n}$
 
 > Oh! Apparently .md does suport some form of LaTeX equations,
 
