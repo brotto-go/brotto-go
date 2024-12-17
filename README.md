@@ -25,15 +25,11 @@ Paragraph, some chunk of text, with some elements being *italic*, **bold**, ***i
 
 ### Suport for TeX?
 
-$f(x)=x^2 \text{\hfill (1)}$
+$f(x)=x^2$
 
-\[
-f(x)=x^2 \text{\hfill (2)}
-\]
+$\left.\left.\sum\right(a_i\right)_i^n$
 
-\begin{equation*}
-f(x)=x^2 \text{\hfill (3)}
-\end{equation*}
+> Oh! Apparently .md does suport some form of LaTeX equations,
 
 ### *Conclusion*
 
