@@ -23,6 +23,18 @@ Paragraph, some chunk of text, with some elements being *italic*, **bold**, ***i
 |---|---|
 | 1 | 2 |
 
+### Suport for TeX?
+
+$f(x)=x^2 \text{\hfill (1)}$
+
+\[
+f(x)=x^2 \text{\hfill (2)}
+\]
+
+\begin{equation*}
+f(x)=x^2 \text{\hfill (3)}
+\end{equation*}
+
 ### *Conclusion*
 
 .md is great.
