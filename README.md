@@ -41,12 +41,14 @@ $\symit{\left.\left.\sum\right(a_i\right)_i^n}$
 
 The **R**, language.
 
-```{r}
+```
+\```{r}
    cat(1)
+\```
 ```
 
 > Probably not working
 
 ### *Conclusion*
 
-´.md´ is great.
+`.md` is great.
