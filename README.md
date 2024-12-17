@@ -11,9 +11,9 @@ Lists, items, subsections, tables, TeX
 * **Item** 2
    * *Item* 2.1
 
-`#RRGGBB blue`
+`#0969DA`
 
-`#FFFFFF`
+`#ffffff`
    
 ### Subsection
    
@@ -46,6 +46,11 @@ The **R**, language.
 ```
 
 > Probably not working
+
+### Miscelanious
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 ### *Conclusion*
 
