@@ -1,9 +1,5 @@
 
-<?php
-
-  echo '>';
-
-?>
+<p class="var">bar</p>
 
 <p style="col:red">s</p>
 
