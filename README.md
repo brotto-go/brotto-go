@@ -102,4 +102,6 @@ $$\text{asd}$$
 
 $$\sum\limits_{i=1}^{n}$$
 
-$$\symit{\sigma \sum \Theta \Phi}$$
+$$\symit{\Sigma \sum \Theta \Phi}$$
+
+$$\Sigma \sum \Theta \Phi$$
