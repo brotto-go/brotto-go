@@ -1,6 +1,5 @@
 
-## Greetings!
-
+<p align="center"> ## Greetings!</p>
 <!-- My name is Heitor Brotto and I'm a 
 
 >  🤓
