@@ -40,9 +40,9 @@ $\symit{\left.\left.\sum\right(a_i\right)_i^n}$
 The **R**, language.
 
 ```
-+```{r}
-+   cat(1)
-+```
++ ```{r}
++    cat(1)
++ ```
 ```
 
 > Probably not working
@@ -53,7 +53,10 @@ The **R**, language.
 > Useful information that users should know, even when skimming content.
 
 ### Had previous experience with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cs,java,mysql,php,arduino,py,r,latex,octave,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cs,java,mysql,php,arduino,py,r,latex,octave,git&perline=8)](https://skillicons.dev)
+
+### Most used/liked rn:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cs,java,mysql,php,arduino,py,r,latex,octave,git&perline=8)](https://skillicons.dev)
 
 ### *Conclusion*
 
