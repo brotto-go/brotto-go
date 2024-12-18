@@ -19,6 +19,8 @@ _world_.
 </pre>
 </td></tr></table>
 
+<!DOCTYPE html>
+
 My name is Heitor Brotto and I'm a 
 
 >  🤓
