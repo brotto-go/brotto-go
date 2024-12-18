@@ -100,6 +100,5 @@ $$\textrm{foo}$$
 
 $$\text{asd}$$
 
-$$\text{\LaTeX}$$
+$$\sum\limits_{i=1}^{n}$$
 
-$$\red{\textrm{foo\LaTeX}}$$
