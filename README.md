@@ -62,12 +62,16 @@ The **R**, language.
 ~~~
 
 <table><tr><td>
+
 foo
+
 </td></tr></table>
 
-<div><a href="bar">*foo*</a></div>
+<div><a href="bar">
 
-> Probably not working
+*foo*
+
+</a></div>
 
 ### Miscelanious
 
