@@ -1,5 +1,3 @@
-<style>p{color:red;}</style>
-*foo*
 
 <?php
 
@@ -7,19 +5,9 @@
 
 ?>
 
-<p style="color:red">
-s
-</p>
+<p style="col:red">s</p>
 
-<p style="color:red">
-
-s
-
-</p>
-
-<p style="color:red">s</p>
-
-# <p color="blue">Greetings!</p>
+# <p col="blue">Greetings!</p>
 
 <table><tr><td>
 <pre>
