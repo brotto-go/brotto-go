@@ -1,9 +1,10 @@
-<style
-  type="text/css">
-h1 {color:red;}
 
-p {color:blue;}
-</style>
+<pre language="haskell"><code>
+import Text.HTML.TagSoup
+
+main :: IO ()
+main = print $ parseTags tags
+</code></pre>
 okay
 
 # <p color="blue">Greetings!</p>
