@@ -7,6 +7,8 @@
 
 <p style="col:red">s</p>
 
+<?php echo 'k'; ?>
+
 # <p col="blue">Greetings!</p>
 
 <table><tr><td>
