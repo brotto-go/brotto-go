@@ -1,5 +1,5 @@
 
-# <p style="text-align: center;">Greetings!</p>
+# <p color="blue">Greetings!</p>
 <!-- My name is Heitor Brotto and I'm a 
 
 >  🤓
