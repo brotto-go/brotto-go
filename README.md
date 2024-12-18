@@ -55,11 +55,7 @@ $\symit{\left.\left.\sum\right(a_i\right)_i^n}$
 
 The **R**, language.
 
-~~~
-```r
-   cat(1)
-```
-~~~
+<pre><code class="language-r">   cat(1)</code></pre>
 
 > Probably not working
 
