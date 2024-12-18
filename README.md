@@ -1,3 +1,10 @@
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+okay
 
 # <p color="blue">Greetings!</p>
 <!-- My name is Heitor Brotto and I'm a 
