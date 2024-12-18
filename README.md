@@ -1,17 +1,13 @@
 
 # <p color="blue">Greetings!</p>
 
-<style type="text/css">
+<style
+  type="text/css">
+h1 {color:red;}
 
-h1{
-color:red;
-}
-
-p{
-color:blue;
-}
-
+p {color:blue;}
 </style>
+okay
 
 <table><tr><td>
 <pre>
