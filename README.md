@@ -7,7 +7,7 @@
 
 <p style="col:red">s</p>
 
-<?php echo 'k'; ?>
+<?php ( 1 === 1 ) ? print 'true' : print 'false'; ?>
 
 # <p col="blue">Greetings!</p>
 
