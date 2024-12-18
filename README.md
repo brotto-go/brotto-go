@@ -96,23 +96,6 @@ foo
 
 `.md` is great.
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<link rel="stylesheet" href="https://cleberg.net/styles.min.css" type="text/css">
-</head>
+$$\Red{foo}$$
 
-<body>
-<p style="color:blue"> flow text </p>
-
-<ul>
-<li><a href="https://cv.cleberg.net">Curriculum Vitae</a></li>
-<li><a href="/salary/">Salary</a></li>
-<li><a href="/services/">Services</a></li>
-<li><a href="/wiki/">Wiki</a></li>
-</ul>
-
-</body>
-
-</html> 
+$$\red{foo}$$
