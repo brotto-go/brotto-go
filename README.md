@@ -9,7 +9,7 @@ _world_.
 </pre>
 </td></tr></table>
 
-<!-- My name is Heitor Brotto and I'm a 
+My name is Heitor Brotto and I'm a 
 
 >  🤓
 
@@ -55,11 +55,11 @@ $\symit{\left.\left.\sum\right(a_i\right)_i^n}$
 
 The **R**, language.
 
+~~~
+```{r}
+   cat(1)
 ```
-+ ```{r}
-+    cat(1)
-+ ```
-```
+~~~
 
 > Probably not working
 
@@ -77,4 +77,3 @@ The **R**, language.
 ### *Conclusion*
 
 `.md` is great.
--->
