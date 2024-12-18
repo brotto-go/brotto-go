@@ -96,6 +96,6 @@ foo
 
 `.md` is great.
 
-$$\Red{\textrm{foo}}$$
+$$\textrm{foo}$$
 
 $$\red{\textrm{foo}}$$
