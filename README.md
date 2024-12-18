@@ -1,11 +1,11 @@
 
-<p class="var">bar</p>
+# <p aling="center">Greetings!</p>
+
+<!-- <p class="var">bar</p>
 
 <p style="col:red">s</p>
 
 <?php ( 1 === 1 ) ? print 'true' : print 'false'; ?>
-
-# <p col="blue">Greetings!</p>
 
 <table><tr><td>
 <pre>
@@ -109,3 +109,5 @@ $$\Sigma \sum \Theta \Phi$$
 lorem ipsum
  
 $\large{\textsf{lorem ipsum}}$
+
+-->
