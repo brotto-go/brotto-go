@@ -96,9 +96,10 @@ foo
 
 `.md` is great.
 
-$$\textrm{foo\emoji{rose}}$$
+$$\textrm{foo}$$
 
-$$\text{asd\emoji{rose}}$$
+$$\text{asd}$$
 
 $$\sum\limits_{i=1}^{n}$$
 
+$$\symit{\sigma \sum \Theta \Phi}$$
