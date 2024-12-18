@@ -96,9 +96,9 @@ foo
 
 `.md` is great.
 
-$$\textrm{foo}$$
+$$\textrm{foo\emoji{rose}}$$
 
-$$\text{asd}$$
+$$\text{asd\emoji{rose}}$$
 
 $$\sum\limits_{i=1}^{n}$$
 
