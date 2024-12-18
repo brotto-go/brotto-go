@@ -61,9 +61,20 @@ The **R**, language.
 ```
 ~~~
 
- <div>
-  *hello*
-         <foo><a>
+<div></div>
+``` c
+int x = 33;
+```
+
+<table><tr><td>
+foo
+</td></tr></table>
+
+<div><a href="bar">*foo*</a></div>
+
+<Warning>
+*bar*
+</Warning>
 
 > Probably not working
 
