@@ -1,6 +1,16 @@
 
 # <p color="blue">Greetings!</p>
 
+<style type="text/css">
+h1{
+color:red;
+}
+
+p{
+color:blue;
+}
+</style>
+
 <table><tr><td>
 <pre>
 **Hello**,
