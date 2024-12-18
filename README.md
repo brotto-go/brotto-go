@@ -1,5 +1,5 @@
 
-# <p aling="center">Greetings!</p>
+# <p align="center">Greetings!</p>
 
 <!-- <p class="var">bar</p>
 
