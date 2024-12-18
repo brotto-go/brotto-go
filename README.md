@@ -1,13 +1,14 @@
+<style>p{color:red;}</style>
+*foo*
+
+<?php
+
+  echo '>';
+
+?>
+okay
 
 # <p color="blue">Greetings!</p>
-
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-okay
 
 <table><tr><td>
 <pre>
