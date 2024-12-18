@@ -55,7 +55,11 @@ $\symit{\left.\left.\sum\right(a_i\right)_i^n}$
 
 The **R**, language.
 
-<pre><code class="language-r">   cat(1)</code></pre>
+~~~Rmd
+```{r}
+   cat(1)
+```
+~~~
 
 > Probably not working
 
@@ -65,10 +69,10 @@ The **R**, language.
 > Useful information that users should know, even when skimming content.
 
 ### Had previous experience with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cs,mysql,php,arduino,java,py,r,latex,octave,git&perline=4)](https://skillicons.dev)
+[![Experience](https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cs,mysql,php,arduino,java,py,r,latex,octave,git&perline=4)](https://skillicons.dev)
 
 ### Most used/liked rn:
-[![My Skills](https://skillicons.dev/icons?i=r,latex,git&perline=4)](https://skillicons.dev)
+[![Enjoyer](https://skillicons.dev/icons?i=r,latex,git&perline=4)](https://skillicons.dev)
 
 ### *Conclusion*
 
