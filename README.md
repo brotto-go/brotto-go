@@ -15,8 +15,6 @@ _world_.
 </pre>
 </td></tr></table>
 
-<!DOCTYPE html>
-
 My name is Heitor Brotto and I'm a 
 
 >  🤓
@@ -34,8 +32,6 @@ Lists, items, subsections, tables, TeX
 * Item ***1***
 * **Item** 2
    * *Item* 2.1
-
-`#0969DA`
 
 `#ffffff`
    
