@@ -1,25 +1,3 @@
-<pre language="haskell"><code>
-import Text.HTML.TagSoup
-
-main :: IO ()
-main = print $ parseTags tags
-</code></pre>
-okay
-
-<script type="text/javascript">
-// JavaScript example
-
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script>
-okay
-
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-okay
 
 # <p color="blue">Greetings!</p>
 
