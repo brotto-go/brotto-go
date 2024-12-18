@@ -99,7 +99,8 @@ foo
 <!DOCTYPE html>
 <html>
 <head>
-
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://cleberg.net/styles.min.css" type="text/css">
 </head>
 
 <body>
