@@ -56,7 +56,7 @@ $\symit{\left.\left.\sum\right(a_i\right)_i^n}$
 The **R**, language.
 
 ~~~
-```{r}
+```r
    cat(1)
 ```
 ~~~
