@@ -107,5 +107,5 @@ $$\symit{\Sigma \sum \Theta \Phi}$$
 $$\Sigma \sum \Theta \Phi$$
 
 lorem ipsum
-
-$\textsf{lorem ipsum}$
+ 
+$\large{\textsf{lorem ipsum}}$
