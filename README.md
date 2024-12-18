@@ -53,7 +53,7 @@ The **R**, language.
 > Useful information that users should know, even when skimming content.
 
 ### Had previous experience with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cs,java,mysql,php,arduino,py,r,latex,octave,git&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cs,mysql,php,java,arduino,py,r,latex,octave,git&perline=4)](https://skillicons.dev)
 
 ### Most used/liked rn:
 [![My Skills](https://skillicons.dev/icons?i=r,latex,git&perline=4)](https://skillicons.dev)
