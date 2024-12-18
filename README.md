@@ -105,3 +105,12 @@ $$\sum\limits_{i=1}^{n}$$
 $$\symit{\Sigma \sum \Theta \Phi}$$
 
 $$\Sigma \sum \Theta \Phi$$
+
+```latex {cmd = True}
+\documentclass{standalone}
+\usepackage{bm}
+\begin{document}
+  $$
+  \bm{a}
+  $$
+\end{document}```
