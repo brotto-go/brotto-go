@@ -1,13 +1,14 @@
 
-<pre language="haskell"><code>
-import Text.HTML.TagSoup
-
-main :: IO ()
-main = print $ parseTags tags
-</code></pre>
-okay
-
 # <p color="blue">Greetings!</p>
+
+<table><tr><td>
+<pre>
+**Hello**,
+
+_world_.
+</pre>
+</td></tr></table>
+
 <!-- My name is Heitor Brotto and I'm a 
 
 >  🤓
