@@ -99,11 +99,11 @@ foo
 <!DOCTYPE html>
 <html>
 <head>
-<title>Title of the document</title>
+
 </head>
 
 <body>
-The content of the document......
+<span style="color:blue">some *blue* text</span>.
 </body>
 
 </html> 
