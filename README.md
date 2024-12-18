@@ -6,7 +6,18 @@
   echo '>';
 
 ?>
-okay
+
+<p style="color:red">
+s
+</p>
+
+<p style="color:red">
+
+s
+
+</p>
+
+<p style="color:red">s</p>
 
 # <p color="blue">Greetings!</p>
 
