@@ -104,7 +104,7 @@ foo
 </head>
 
 <body>
-<span style="color:blue"> ## flow text</span>.
+<span style="color:blue"> <h2>flow text</h2> </span>.
 </body>
 
 </html> 
