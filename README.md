@@ -98,4 +98,8 @@ foo
 
 $$\textrm{foo}$$
 
-$$\red{\textrm{foo}}$$
+$$\text{asd}$$
+
+$$\text{\LaTeX}$$
+
+$$\red{\textrm{foo\LaTeX}}$$
