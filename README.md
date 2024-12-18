@@ -104,7 +104,15 @@ foo
 </head>
 
 <body>
-<span style="color:blue"> <h2>flow text</h2> </span>.
+<p style="color:blue"> flow text </p>
+
+<ul>
+<li><a href="https://cv.cleberg.net">Curriculum Vitae</a></li>
+<li><a href="/salary/">Salary</a></li>
+<li><a href="/services/">Services</a></li>
+<li><a href="/wiki/">Wiki</a></li>
+</ul>
+
 </body>
 
 </html> 
