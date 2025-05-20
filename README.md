@@ -7,6 +7,8 @@
 
 <?php ( 1 === 1 ) ? print 'true' : print 'false'; ?>
 
+<h1> Sample Header </h1>
+
 <table><tr><td>
 <pre>
 **Hello**,
