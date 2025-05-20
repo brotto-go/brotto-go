@@ -5,6 +5,8 @@
 
 <p style="col:red">s</p>
 
+<p> Sample Text </p>
+
 <?php ( 1 === 1 ) ? print 'true' : print 'false'; ?>
 
 <table><tr><td>
