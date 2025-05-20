@@ -11,6 +11,8 @@
 
 <h1> Sample Header </h1>
 
+<h2> Sample Subheader </h2>
+
 <table><tr><td>
 <pre>
 **Hello**,
